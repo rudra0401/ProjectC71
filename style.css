@@ -1,0 +1,44 @@
+html{
+    background: darkolivegreen
+}
+body
+{
+    text-align: center;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#videos{
+    background: darkolivegreen;
+ 
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+.achievement_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.achievement_head i{
+    float: right;
+}
+
+.achievement_text_span{
+    color: blanchedalmond;
+}
+.new{
+    margin-bottom: 20px;
+}
+#contact iframe{
+    width: 100%;
+}
